@@ -2,3 +2,4 @@ data/*
 anaconda_projects/
 .virtual_documents/
 .venv/
+.ipynb_checkpoints/
